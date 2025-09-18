@@ -1,0 +1,43 @@
+Project Title: Student Management System (Basic Version)
+Project Overview
+Allow the user (admin) to add new students (Name, Roll No, Email).
+
+Display a list of all students.
+
+Edit or delete student records.
+
+Use PHP arrays for storage (upgrade to MySQL after basics).
+
+Skill Focus
+Form handling with PHP (GET/POST)
+
+Data validation
+
+Using PHP arrays to store and display information
+
+Basic CRUD (Create, Read, Update, Delete) operations
+
+HTML + basic CSS for user interface
+
+Step-by-Step Guide
+Set up a development environment: Install XAMPP or any PHP server stack.
+
+Create a new PHP file (e.g., student_management.php) in your XAMPP htdocs directory.
+
+Design an HTML Form
+
+Fields: Student Name, Roll Number, Email
+
+Submit button (for adding students)
+
+Process the form with PHP
+
+Store submitted student details in a PHP array.
+
+Display the student list below the form.
+
+Add Edit/Delete functionality
+
+Next to each student, add “Edit” and “Delete” buttons/links.
+
+Handle updates or removals using PHP logic (refresh or POST data).
